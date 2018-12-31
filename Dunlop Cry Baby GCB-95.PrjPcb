@@ -124,23 +124,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XDSBSBDY
 
 [Document6]
-DocumentPath=CONN JACK MONO.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XEOXMFOH
-
-[Document7]
 DocumentPath=..\..\SolarCar\AltiumLibraries\Connectors\PCB Libraries\Molex Microfit 3.0 2x2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QXPESXRU
 
-[Document8]
+[Document7]
 DocumentPath=..\..\SolarCar\AltiumLibraries\Resistors\PCB Libraries\Generic 0603 Resistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YKJAUJJB
 
-[Document9]
+[Document8]
 DocumentPath=..\..\SolarCar\AltiumLibraries\Capacitors\PCB Libraries\Generic 0603 Capacitor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OEOITSAY
 
-[Document10]
+[Document9]
 DocumentPath=..\..\SolarCar\AltiumLibraries\Connectors\PCB Libraries\Molex Microfit 3.0 1x2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MLMKFKCS
 
-[Document11]
+[Document10]
 DocumentPath=..\..\SolarCar\AltiumLibraries\Diodes\PCB Libraries\Zener Diode.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,58 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FNPARSHO
 
-[Document12]
-DocumentPath=NPN BJT.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CAAHQDUR
-
-[Document13]
-DocumentPath=CONN JACK MONO.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XODTEWAU
-
-[Document14]
-DocumentPath=NPN BJT.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EBPESOBR
-
-[Document15]
+[Document11]
 DocumentPath=..\..\SolarCar\AltiumLibraries\Diodes\Schematic Libraries\Dunlop Cry Baby GCB-95 Schematic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
