@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Connectors)(type Legacy)(uri "/home/bandakka/Documents/KiCAD Projects/MX+ Distortion Pedal/Connectors.lib")(options "")(descr ""))
+  (lib (name MX+-Distortion-Pedal-rescue)(type Legacy)(uri "${KIPRJMOD}/MX+ Distortion Pedal-rescue.lib")(options "")(descr ""))
+)

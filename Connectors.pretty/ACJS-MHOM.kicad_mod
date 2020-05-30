@@ -1,0 +1,8 @@
+(module ACJS-MHOM (layer F.Cu) (tedit 5D2E8847)
+  (fp_text reference REF** (at 0 4.0386) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value ACJS-MHOM (at 0 2.413) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
